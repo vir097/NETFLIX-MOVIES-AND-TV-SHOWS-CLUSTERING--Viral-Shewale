@@ -11,10 +11,10 @@
 
 | Sl. No. | Section         |  
 |:--------|:-------------------------|
-|    1    |   <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#1-introduction">   Introduction  </a>    | 
-|    2    |   <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#2-eda-summary">   EDA Summary    </a>   | 
-|    3    | <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#3-clustering-summary"> Clustering Summary  </a> | 
-| 4 | <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#5-conclusions"> Conclusions  </a> |
+|    1    |   <a href="https://github.com/vir097/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING--Viral-Shewale#1-introduction">   Introduction  </a>    | 
+|    2    |   <a href="https://github.com/vir097/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING--Viral-Shewale#2-eda-summary">   EDA Summary    </a>   | 
+|    3    | <a href="https://github.com/vir097/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING--Viral-Shewale#3-clustering-summary"> Clustering Summary  </a> | 
+| 4 | <a href="https://github.com/vir097/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING--Viral-Shewale"> Conclusions  </a> |
 
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
