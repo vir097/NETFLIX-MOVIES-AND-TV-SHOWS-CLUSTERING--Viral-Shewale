@@ -14,8 +14,7 @@
 |    1    |   <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#1-introduction">   Introduction  </a>    | 
 |    2    |   <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#2-eda-summary">   EDA Summary    </a>   | 
 |    3    | <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#3-clustering-summary"> Clustering Summary  </a> | 
-|    4    | <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#4-content-based-recommender-system-using-cosine-similarity"> Content Based Recommender System </a> |
-| 5 | <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#5-conclusions"> Conclusions  </a> |
+| 4 | <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#5-conclusions"> Conclusions  </a> |
 
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -65,14 +64,8 @@
 
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 4. Content Based Recommender system using Cosine Similarity:
-* We can build a simple content based recommender system based on the similarity of the shows.
-* If a person has watched a show on Netflix, the recommender system must be able to recommend a list of similar shows that s/he likes. To get the similarity score of the shows, we can use cosine similarity.
-* The similarity between two vectors (A and B) is calculated by taking the dot product of the two vectors and dividing it by the magnitude. We can simply say that the CS score of two vectors increases as the angle between them decreases.
 
-![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## 5. Conclusions:
+## 4. Conclusions:
 * In this project, we worked on a text clustering problem wherein we had to classify/group the Netflix shows into certain clusters such that the shows within a cluster are similar to each other and the shows in different clusters are dissimilar to each other.
 * The dataset contained about 7787 records, and 11 attributes.
 * It was found that Netflix hosts more movies than TV shows on its platform, and the total number of shows added on Netflix is growing exponentially. Also, majority of the shows were produced in the United States, and the majority of the shows on Netflix were created for adults and young adults age group.
