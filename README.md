@@ -53,7 +53,7 @@
 ### 3.1. K Means Clustering:
 * The optimal number of clusters were built after visualizing the elbow curve and the Silhouette score.
 * Highest Silhouette score is obtained for 6 clusters using k-means clustering. Hence, the number of clusters for k-means clustering was taken as 6.
-* Silhouette score at 6 clusters: 0.0082
+* Silhouette score at 5 clusters: 0.007325
 
 ### 3.2. Hierarchical Clustering:
 *  Clusters were built using the Agglomerative clustering algorithm, and the optimal number of clusters were built after visualizing the dendogram.
